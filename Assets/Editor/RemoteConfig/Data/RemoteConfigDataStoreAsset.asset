@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b92c4d74-9b01-49ec-8dd9-27ef9e787049\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b92c4d74-9b01-49ec-8dd9-27ef9e787049\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"4d157ae9-8730-4a12-9dcb-808e9b325949\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"29994ed5-d99e-409c-abcb-f57a67e02796\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2026-10-30T05:54:32Z\",\r\n    \"updatedAt\":
+    \"2026-10-30T05:54:32Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"4d157ae9-8730-4a12-9dcb-808e9b325949\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"29ec40df-ff07-4414-82c1-47fca5493e2b\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2026-10-30T06:12:38Z\",\r\n   
+    \"updatedAt\": \"2026-10-30T06:12:38Z\"\r\n  }\r\n]"
